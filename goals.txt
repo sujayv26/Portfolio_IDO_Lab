@@ -1,0 +1,3 @@
+I want to learn Git and GitHub workflows.
+I want to understand CI/CD pipelines.
+I want to gain hands-on DevOps experience.
